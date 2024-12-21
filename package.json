@@ -1,12 +1,12 @@
 {
-    "name": "DEPSELL",
-    "version": "2718.7",
-    "description": "null",
+    "name": "NUTSBOY",
+    "version": "26.15.2276",
+    "description": "simple",
     "main": "start.js",
     "scripts": {
-        "start": "pm2 start start.js --deep-monitoring --attach --name mdq",
-        "stop": "pm2 stop mdq",
-        "restart": "pm2 restart mdq"
+        "start": "pm2 start start.js --deep-monitoring --attach --name nutsboy",
+        "stop": "pm2 stop nutsboy",
+        "restart": "pm2 restart nutsboy"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
