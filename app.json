@@ -1,8 +1,8 @@
 {
-  "name": "PMD(2.1.4)",
-  "description": "PRABATHMD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "NUTS_BOY",
+  "description": "Simple application",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
+  "keywords": ["nodejs"],
   "success_url": "/",
 
   "env": {
