@@ -7,7 +7,6 @@
         "start": "pm2 start start.js --deep-monitoring --attach --name nutsboy",
         "stop": "pm2 stop nutsboy",
         "restart": "pm2 restart nutsboy",
-        "install" : "npm ci"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -82,7 +81,6 @@
         "path": "^0.12.7",
         "pino": "^7.0.5",
         "pm2": "^5.2.0",
-        "PRABATH-MD": "file:",
         "qr-image": "3.2.0",
         "qrcode": "1.5.3",
         "qrcode-terminal": "^0.12.0",
