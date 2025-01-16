@@ -7,7 +7,7 @@
         "start": "pm2 start start.js --deep-monitoring --attach --name nutsboy",
         "stop": "pm2 stop nutsboy",
         "restart": "pm2 restart nutsboy",
-        "install" : "npm install --force"
+        "install" : "npm ci"
     },
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
